@@ -3,5 +3,5 @@
 [arXiv: 2003.00061](https://arxiv.org/abs/2003.00061)
 
 <p align="center">
-  <img width="460" height="300" src="/figs/U-depedence.png">
+  <img width="600" height="auto" src="/figs/U-depedence.png">
 </p>
