@@ -5,3 +5,11 @@
 <p align="center">
   <img width="100%" height="auto" src="/figs/U-depedence.png">
 </p>
+
+**On-going**
+
+$p_x+i p_y$ modes in spin
+
+<p align="center">
+  <img width="100%" height="auto" src="/spin\ texture/Spin-texture.png">
+</p>
