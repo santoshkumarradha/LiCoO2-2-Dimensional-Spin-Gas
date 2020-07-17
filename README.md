@@ -8,8 +8,8 @@
 
 **On-going**
 
-$p_x+i p_y$ modes in spin
+px+ipy modes in spin
 
 <p align="center">
-  <img width="100%" height="auto" src="/spin\ texture/Spin-texture.png">
+  <img width="100%" height="auto" src="/spin-texture/Spin-texture.png">
 </p>
